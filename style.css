@@ -174,7 +174,6 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
-  justify-content: center;
 }
 
 .section__text {
@@ -208,12 +207,14 @@ section {
 }
 
 /* ICONS */
+
 .icon {
   cursor: pointer;
   height: 2rem;
 }
 
 /* BUTTONS */
+
 .btn-container {
   display: flex;
   justify-content: center;
@@ -245,7 +246,7 @@ section {
 }
 
 .btn-color-1:hover {
-  color: rgb(0, 0, 0);
+  background: rgb(0, 0, 0);
 }
 
 .btn-color-2 {
@@ -267,8 +268,8 @@ section {
 }
 
 .about-containers {
-  gap: 2rem;
-  margin-bottom: 2rem;
+  gap: 5rem;
+  margin-bottom: 5rem;
   margin-top: 2rem;
 }
 
@@ -314,6 +315,7 @@ section {
 }
 
 /* EXPERIENCE SECTION */
+
 #experience {
   position: relative;
 }
@@ -351,8 +353,8 @@ article .icon {
   cursor: default;
 }
 
-
 /* PROJECTS SECTION */
+
 #projects {
   position: relative;
 }
@@ -379,6 +381,7 @@ article .icon {
 }
 
 /* CONTACT */
+
 #contact {
   display: flex;
   justify-content: center;
@@ -392,7 +395,7 @@ article .icon {
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
-  background: rgb(250, 250, 250);
+  background: (250, 250, 250);
   margin: 2rem auto;
   padding: 0.5rem;
 }
@@ -417,7 +420,8 @@ article .icon {
   height: 2.5rem;
 }
 
-/* FOOTER */
+/* FOOTER SECTION */
+
 footer {
   height: 26vh;
   margin: 0 1rem;
