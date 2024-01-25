@@ -10,6 +10,7 @@
 body {
   font-family: "Poppins", sans-serif;
   zoom: 1.20;
+  /* background-color: #5D5C5C; */
 }
 
 html {
@@ -291,7 +292,7 @@ section {
 .arrow {
   position: absolute;
   right: -5rem;
-  bottom: 2.5rem;
+  bottom: 0.5rem;
 }
 
 .details-container {
