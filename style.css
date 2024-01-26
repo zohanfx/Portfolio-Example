@@ -38,7 +38,7 @@ nav,
 nav {
   justify-content: space-around;
   align-items: center;
-  height: 17vh;
+  height: 13vh;
 }
 
 .nav-links {
@@ -168,7 +168,7 @@ section {
   display: flex;
   justify-content: center;
   gap: 5rem;
-  height: 80vh;
+  height: 70vh;
 }
 
 .section__pic-container {
